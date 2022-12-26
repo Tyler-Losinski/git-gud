@@ -3,7 +3,7 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://git-gud-six.vercel.app/'
+export const website = 'https://git-gud-six.vercel.app/blog/'
 
 export const firstName = 'Tyler'
 export const lastName = 'Losinski'
