@@ -22,8 +22,8 @@ All of your posts (including this one) are located in the `posts` folder. They a
 You can add a new post by creating either a new `.md` file or a folder with an `index.md` file:
 
 ```
-/posts/my-first-post.md
-/posts/my-first-post/index.md
+/blog/posts/my-first-post.md
+/blog/posts/my-first-post/index.md
 ```
 
 Make sure your posts have `title` and `date` properties in the front matter:
