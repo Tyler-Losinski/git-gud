@@ -18,7 +18,7 @@ A sotware developer who enjoys helping others git gud.
 // Your social usernames, empty strings won't be used.
 // For sake of the live demo, I'm using `username/repo` for github,
 // but you can replace with just your username.
-export const github = 'https://github.com/Tyler-Losinski/'
+export const github = '/Tyler-Losinski/'
 export const twitter = ''
-export const linkedin = ''
+export const linkedin = '/in/tylerlosinski/'
 export const instagram = ''

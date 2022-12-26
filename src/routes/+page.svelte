@@ -52,7 +52,7 @@
     href="#"
     target="_blank"
     title="NO"
-    onclick="return false;">Git Gud</a
+    >Git Gud</a
   >
 </div>
 
@@ -65,9 +65,7 @@
   .body {
     text-align: center;
   }
-  .text-zinc-500 {
-    color: #1a202c;
-  }
+  
   a#answer {
     display: inline-block;
     margin-top: 200px;
@@ -78,74 +76,4 @@
     cursor: default;
   }
 
-  .flag {
-    position: absolute;
-    cursor: none;
-
-    border: 1px solid #d6d6d6;
-
-    -webkit-border-radius: 2px;
-    -o-border-radius: 2px;
-    border-radius: 2px;
-  }
-  .flag.ghost {
-    opacity: 0.4;
-  }
-  .flag.me {
-    pointer-events: none;
-  }
-
-  .click {
-    position: absolute;
-    border: 1px solid #000;
-
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-
-    -webkit-transition: 0.5s ease-out;
-    -moz-transition: 0.5s ease-out;
-    -o-transition: 0.5s ease-out;
-    transition: 0.5s ease-out;
-  }
-
-  #legend {
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 200px;
-    padding-right: 15px;
-    padding-top: 5px;
-    text-align: right;
-    font-size: 10pt;
-  }
-
-  #links {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 300px;
-    padding-left: 15px;
-    padding-top: 5px;
-    text-align: left;
-    font-size: 10pt;
-    z-index: 9999;
-
-    opacity: 0;
-
-    display: none;
-
-    -webkit-transition: 0.5s ease-out;
-    -moz-transition: 0.5s ease-out;
-    -o-transition: 0.5s ease-out;
-    transition: 0.5s ease-out;
-  }
-
-  #links a {
-    color: #333;
-    display: inline-block;
-    margin-right: 10px;
-  }
-  #links a#console {
-    display: none;
-  }
 </style>

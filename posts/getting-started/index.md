@@ -15,15 +15,15 @@ Let's go over a few quick things:
 
 Now that that's out of the way, let's learn about how to make posts.
 
-## Creating a Post
+# Creating a Post
 
 All of your posts (including this one) are located in the `posts` folder. They are written in markdown and parsed with mdsvex. If you're unfamiliar with mdsvex, I would recommend [looking at the website](https://mdsvex.com/playground) to see what is all possible out of the box.
 
 You can add a new post by creating either a new `.md` file or a folder with an `index.md` file:
 
 ```
-/blog/posts/my-first-post.md
-/blog/posts/my-first-post/index.md
+/posts/my-first-post.md
+/posts/my-first-post/index.md
 ```
 
 Make sure your posts have `title` and `date` properties in the front matter:
