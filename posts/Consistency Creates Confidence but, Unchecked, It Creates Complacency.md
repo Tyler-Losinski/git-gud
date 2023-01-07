@@ -3,7 +3,7 @@ title: Consistency Creates Confidence but, Unchecked, It Creates Complacency
 date: 2023-01-07
 ---
 
-Consistency leads to confidence; however, given enough time will lead to complacency. To avoid this pitfall, stopping and reflecting will help create visibility in areas that might be falling into this trap.  
+Consistency leads to confidence; however, given enough time will lead to complacency. To avoid this pitfall, stopping and reflecting will help create visibility and avoid falling victim to this trap. 
 
 When working with others, the biggest challenge is creating a sense of confidence in the process. It will likely fall apart if people do not feel the plan will succeed. A great example of this is implementing agile standards within a dev team. To ensure everyone sticks with the process, they need to have something familiar to grasp onto, which is where consistency comes into play. When we have the same weekly meeting to review tickets, it becomes a structure that people can hold onto to make sense of the chaos software development can bring. 
 
