@@ -4,9 +4,6 @@
   import MoonIcon from 'heroicons-svelte/solid/MoonIcon.svelte'
   import SunIcon from 'heroicons-svelte/solid/SunIcon.svelte'
   import { browser } from '$app/environment'
-  import { inject } from '@vercel/analytics'
-
-  inject();//analytics for vercel
 
   let isDarkMode = browser ? Boolean(document.documentElement.classList.contains('dark')) : true
 
