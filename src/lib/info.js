@@ -3,14 +3,14 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://git-gud-six.vercel.app/blog/'
+export const website = 'https://gitgud.help/blog/'
 
 export const firstName = 'Tyler'
 export const lastName = 'Losinski'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
-export const avatar = '/images/minnie.jpg'
+export const avatar = '/images/me.jpg'
 export const bio = `\
 A sotware developer who enjoys helping others git gud.
 `
